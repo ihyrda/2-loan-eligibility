@@ -68,5 +68,5 @@ This is an educational demonstration using a small teaching dataset. It is not a
 
 ## Links
 
-- GitHub repository: _to be added after upload_
-- Deployed Streamlit app: _to be added after deployment_
+- GitHub repository: https://github.com/ihyrda/2-loan-eligibility
+- Deployed Streamlit app: https://2-loan-eligibility-ihyrda.streamlit.app/
